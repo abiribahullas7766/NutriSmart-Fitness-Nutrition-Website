@@ -1,10 +1,5 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/futras)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/futras?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/futras?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/QrS56MIl-CE?style=social)](https://youtu.be/QrS56MIl-CE)
 
   <br />
   <br />
@@ -44,13 +39,13 @@ To run **NutriSmart** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone 
+sudo git clone https://github.com/abiribahullas7766/NutriSmart-Fitness-Nutrition-Website.git
 ```
 
 Windows:
 
 ```bash
-git clone 
+git clone https://github.com/abiribahullas7766/NutriSmart-Fitness-Nutrition-Website.git
 ```
 
 ### Contact
