@@ -9,11 +9,11 @@
   <br />
   <br />
 
-  <h2 align="center">Futras - Fitness Website</h2>
+  <h2 align="center">NutriSmart - Fitness Website</h2>
 
-  Futras is a fully responsive fitness website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  NutriSmart is a fully responsive fitness website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/futras/"><strong>➥ Live Demo</strong></a>
+ 
 
 </div>
 
@@ -21,7 +21,15 @@
 
 ### Demo Screeshots
 
-![Futras Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Capture](https://github.com/abiribahullas7766/NutriSmart-Fitness-Nutrition-Website/assets/54986400/82fdad7e-12f9-4f83-9f29-976358aaf424)
+
+### Demo Screeshots
+
+![4](https://github.com/abiribahullas7766/NutriSmart-Fitness-Nutrition-Website/assets/54986400/33c2c45c-e9f3-4499-baaf-9dfff8b7644b)
+
+### Demo Screeshots
+![Capture4](https://github.com/abiribahullas7766/NutriSmart-Fitness-Nutrition-Website/assets/54986400/f37543d8-181e-4519-94cb-fa2bf20a191c)
+
 
 ### Prerequisites
 
@@ -31,23 +39,23 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Futras** locally, run this command on your git bash:
+To run **NutriSmart** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/futras.git
+sudo git clone 
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/futras.git
+git clone 
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Linkdin: https://www.linkedin.com/in/md-abiribah-ullas-254725221/ ]
 
 ### License
 
